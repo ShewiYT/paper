@@ -14,7 +14,7 @@ export const accounts = [
         localId: 1,
         id: 536282364,
         wss: "wss://paper-scroll.ru/socket?vk_access_token_settings=friends&vk_app_id=7420483&vk_are_notifications_enabled=0&vk_is_app_user=1&vk_is_favorite=0&vk_language=ru&vk_platform=desktop_web&vk_ref=other&vk_user_id=536282364&sign=8DF399YheYbMSx0RLjihuVlq1Nid4AsZAhgpghBfivw&hashParams=%7B%7D",
-        role: 'stealer',
+        role: 'miner',
         autoBuyImprovements: false,
         transferUserId: 281856579,
         isStorageMiddle: true,
